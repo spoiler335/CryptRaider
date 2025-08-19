@@ -1,0 +1,2 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=4A77B5E9_002D23C7_002D68DC_002D27D4_002DC7FF7217BD12_002Ff_003AMover_002Ecpp/@EntryIndexedValue">ExplicitlyExcluded</s:String></wpf:ResourceDictionary>
